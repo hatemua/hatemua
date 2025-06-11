@@ -1,6 +1,5 @@
 # Hatem Azaiez - Blockchain Consultant 🚀
 
-![Banner]((https://github.com/hatemua/hatemua/blob/16cdbc17456b898beb811f016105fa9f12431300/Animate_this_image_202506111315.gif))
 <p align="center">
   <img src="https://github.com/hatemua/hatemua/raw/main/Animate_this_image_202506111315.gif" alt="Banner" />
 </p>
