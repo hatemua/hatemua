@@ -106,7 +106,7 @@ Here are the key skills I bring to the table:
 
 ## 📄 Download My CV
 
-[![Download CV](https://img.shields.io/badge/Download_CV-blue?style=for-the-badge)](https://github.com/yourusername/yourrepository/raw/main/path/to/cv.pdf)
+[![Download CV](http://github.com/hatemua/hatemua/blob/main/cv%20hatem%20azaiez-1-1-1.pdf)
 
 ---
 
