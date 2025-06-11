@@ -1,7 +1,7 @@
 # Hatem Azaiez - Blockchain Consultant 🚀
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dhbol6euq/image/upload/v1749644287/Animate_this_image_202506111315_ty6vpz.gif" alt="Banner" />
+![Banner](https://res.cloudinary.com/dhbol6euq/image/upload/v1749644287/Animate_this_image_202506111315_ty6vpz.gif)
 </p>
 
 ## 👨‍💻 Profile
