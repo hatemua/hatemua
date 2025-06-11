@@ -1,6 +1,6 @@
 # Hatem Azaiez - Blockchain Consultant 🚀
 
-![Banner]([https://res.cloudinary.com/dhbol6euq/image/upload/v1749644287/Animate_this_image_202506111315_ty6vpz.gif](https://github.com/hatemua/hatemua/blob/16cdbc17456b898beb811f016105fa9f12431300/Animate_this_image_202506111315.gif))
+![Banner]((https://github.com/hatemua/hatemua/blob/16cdbc17456b898beb811f016105fa9f12431300/Animate_this_image_202506111315.gif))
 
 ## 👨‍💻 Profile
 
