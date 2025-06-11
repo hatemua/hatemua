@@ -1,7 +1,9 @@
 # Hatem Azaiez - Blockchain Consultant 🚀
 
 ![Banner]((https://github.com/hatemua/hatemua/blob/16cdbc17456b898beb811f016105fa9f12431300/Animate_this_image_202506111315.gif))
-
+<p align="center">
+  <img src="https://github.com/hatemua/hatemua/raw/main/Animate_this_image_202506111315.gif" alt="Banner" />
+</p>
 ## 👨‍💻 Profile
 
 I'm a *Blockchain Consultant* with over 6 years of experience in blockchain development and architecture, and 8 years of experience in web development. I specialize in full-stack application development, database design, server-side programming, and front-end UI design. Additionally, I have extensive experience with blockchain technologies like *Solidity, **Rust, and **Aptos*.
